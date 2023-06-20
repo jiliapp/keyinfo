@@ -1,4 +1,5 @@
-#### main函数获取硬件信息
+#### JAVA获取硬件信息
+
 1. 普通jar包打包成fatJar
 ```kotlin
 tasks.withType<Jar> {
