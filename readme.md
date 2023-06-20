@@ -15,7 +15,7 @@ tasks.withType<Jar> {
 2. 获得oshi硬件信息,用于license生成
 ````ignorelang
 
-java -jar keyinfo-1.0.0.jar
+java -jar keyinfo.jar
 
 磁盘->
 
